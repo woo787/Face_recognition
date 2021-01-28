@@ -5,6 +5,6 @@ The development is currently 🖐over and will be updated using C# later on top 
 If you have any questions about development, 🙏don't hesitate to contact me.
 
 
-1. Part1 is a source that takes pictures and stores them in the desired path. If you want to do face recognition, start with part one.</br>
-2. Part2 is just a debug code to test the algorithm in part3, so you can skip it.
-3. After performing part1, if you modify the path in part 3 as you want, the computer will recognize your face on its own.
+1. __Part1__ is a source that takes pictures and stores them in the desired path. If you want to do face recognition, start with part one.</br>
+2. __Part2__ is just a debug code to test the algorithm in part3, so you can skip it.
+3. After performing part1, if you modify the path in __part 3__ as you want, the computer will recognize your face on its own.
